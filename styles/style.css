@@ -12,5 +12,6 @@
     flex-direction: column;
     gap: 4;
     background-color: black;
-    color: white;
+    color: green;
+    padding: 10px 40px;
 }
